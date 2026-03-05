@@ -1,0 +1,12 @@
+console.log("SECTION 4 – COMPARISON")
+
+console.log(5 == "5")
+console.log(5 === "5")
+console.log(0 == false)
+console.log(0 === false)
+console.log(null == undefined)
+console.log(null === undefined)
+console.log("10" > 5)
+console.log("2" > "10")
+console.log(true == 1)
+console.log(true === 1)
